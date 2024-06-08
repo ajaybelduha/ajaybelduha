@@ -1,32 +1,21 @@
-
-<!--
-**ajaybelduha/ajaybelduha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-- 🔭 I’m currently working on my own project.
-- 🌱 I’m currently learning more about js development
-
-- 💬 Ask me about js
-- 📫 How to reach me: ajaybeduha@gmail.com
-- 😄 Pronouns: He
-- ⚡ Fun fact: A dedicated developer. :)
--->
 <h1 align="center">Hi 👋, I'm Ajay Kumar</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajaybelduha&label=Profile%20views&color=0e75b6&style=flat" alt="ajaybelduha" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajaybelduha" alt="ajaybelduha" /></a> </p>
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ajaybelduha" alt="ajaybelduha" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on [Next2Shop](https://next2shop.in)
+- 🔭 I’m currently working on [Next2Shop.in](https://next2shop.in)
 
 - 👨‍💻 All of my projects are available at [ajaybelduha.dev](ajaybelduha.dev)
 
 - 📝 I regularly write articles on [ajaybelduha.dev/blogs](ajaybelduha.dev/blogs)
 
-- 💬 Ask me about **React.js, Node, Database etc.**
+- 💬 Ask me about **Javascript, React.js, Node, Database etc.**
 
 - 📫 How to reach me **ajaybelduha@gmail.com**
 
