@@ -11,9 +11,9 @@
 
 - 🔭 I’m currently working on [Next2Shop.in](https://next2shop.in)
 
-- 👨‍💻 All of my projects are available at [ajaybelduha.dev](ajaybelduha.dev)
+- 👨‍💻 All of my projects are available at [ajaybelduha.com](ajaybelduha.com)
 
-- 📝 I regularly write articles on [ajaybelduha.dev/blogs](ajaybelduha.dev/blogs)
+- 📝 I regularly write articles on [ajaybelduha.com/blogs](ajaybelduha.com/blogs)
 
 - 💬 Ask me about **Javascript, React.js, Node, Database etc.**
 
