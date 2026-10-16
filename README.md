@@ -1,12 +1,19 @@
 <h1 align="center">Hi 👋, I'm Ajay Kumar</h1>
 <h3 align="center">Tech Lead | Sr. Fullstack developer from India with expertise in building scalable products</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ajaybelduha&label=Profile%20views&color=0e75b6&style=flat" alt="ajaybelduha" /> </p>
-
 <p align="center">
   <a href="https://ajaybelduha.com">
     <img src="https://ajaybelduha.com/resume/ajaybelduha.jpg" alt="ajaybelduha" width="120" />
   </a>
+</p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ajaybelduha&label=Profile%20views&color=0e75b6&style=flat" alt="ajaybelduha" /> </p>
+
+<p align="center" dir="auto">
+  <a href="https://dev.to/ajaybelduha" rel="nofollow"><img src="https://camo.githubusercontent.com/00d48b745d6f70b4f8f88ebf3d119a622f06d88cda77c8181da30d4df14bf3c2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4445562e544f2d2532333041304130412e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6465762e746f266c6f676f436f6c6f723d7768697465" alt="dev.to" data-canonical-src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?style=for-the-badge&amp;logo=dev.to&amp;logoColor=white" style="max-width: 100%;"></a>
+  <a href="https://linkedin.com/in/ajaybelduha" rel="nofollow"><img src="https://camo.githubusercontent.com/4e553d53f6e9f155a37afc70e7e1a66509e58d9fbf9594dbd0843163d3327268/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d2532333030373742352e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="LinkedIn" data-canonical-src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
+  <a href="https://instagram.com/ajaybelduha" rel="nofollow"><img src="https://camo.githubusercontent.com/62a6f1539f3ecfcec7f4e54a8c3ed1341afc46f0207ea8661746aa0eedcd27f7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e7374616772616d2d2532334534343035462e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d496e7374616772616d266c6f676f436f6c6f723d7768697465" alt="Instagram" data-canonical-src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&amp;logo=Instagram&amp;logoColor=white" style="max-width: 100%;"></a>
+  <a href="mailto:ajaybelduha@gmail.com"><img src="https://camo.githubusercontent.com/3dab650f25d56587b6218c5aa481ae7da43e1b66427a0c2cd3263685fc765b0d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f456d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" alt="Email" data-canonical-src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;"></a>
+  <a href="https://ajaybelduha.com/" rel="nofollow"><img src="https://camo.githubusercontent.com/61d36c0bc10700c6025aa573571ec33f41d4d82bbdb939c3b0fe852e6d05d094/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f7274666f6c696f2d3065373562363f7374796c653d666f722d7468652d6261646765266c6f676f3d4e65746c696679266c6f676f436f6c6f723d7768697465" alt="Portfolio" data-canonical-src="https://img.shields.io/badge/Portfolio-0e75b6?style=for-the-badge&amp;logo=Netlify&amp;logoColor=white" style="max-width: 100%;"></a>
 </p>
 
 - 🔭 I’m currently working on [Next2Shop.in](https://next2shop.in)
