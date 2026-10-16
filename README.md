@@ -16,16 +16,6 @@
   <a href="https://ajaybelduha.com/" rel="nofollow"><img src="https://camo.githubusercontent.com/61d36c0bc10700c6025aa573571ec33f41d4d82bbdb939c3b0fe852e6d05d094/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f7274666f6c696f2d3065373562363f7374796c653d666f722d7468652d6261646765266c6f676f3d4e65746c696679266c6f676f436f6c6f723d7768697465" alt="Portfolio" data-canonical-src="https://img.shields.io/badge/Portfolio-0e75b6?style=for-the-badge&amp;logo=Netlify&amp;logoColor=white" style="max-width: 100%;"></a>
 </p>
 
-- 🔭 I’m currently working on [Next2Shop.in](https://next2shop.in)
-
-- 👨‍💻 All of my projects are available at [ajaybelduha.com](https://ajaybelduha.com)
-
-- 📝 I regularly write articles on [ajaybelduha.com/blogs](https://ajaybelduha.com/blogs)
-
-- 💬 Ask me about **Javascript, React.js, Node, Database etc.**
-
-- 📫 How to reach me **ajaybelduha@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
