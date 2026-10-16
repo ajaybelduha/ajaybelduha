@@ -4,8 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajaybelduha&label=Profile%20views&color=0e75b6&style=flat" alt="ajaybelduha" /> </p>
 
 <p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ajaybelduha" alt="ajaybelduha" />
+  <a href="https://ajaybelduha.com">
+    <img src="https://ajaybelduha.com/resume/ajaybelduha.jpg" alt="ajaybelduha" />
   </a>
 </p>
 
