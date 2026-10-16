@@ -349,25 +349,26 @@
   </a>
 </p>
 
-<p align="center">
-  <img
-    align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=ajaybelduha&show_icons=true&locale=en&layout=compact"
-    alt="ajaybelduha"
-  />
-</p>
-<p align="center">
+
+<!-- <p align="center">
   &nbsp;<img
     align="center"
     src="https://github-readme-stats.vercel.app/api?username=ajaybelduha&show_icons=true&locale=en"
     alt="ajaybelduha"
   />
-</p>
+</p> -->
 
 <p align="center">
   <img
     align="center"
     src="https://github-readme-streak-stats.herokuapp.com/?user=ajaybelduha&"
+    alt="ajaybelduha"
+  />
+</p>
+<p align="center">
+  <img
+    align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=ajaybelduha&show_icons=true&locale=en&layout=compact"
     alt="ajaybelduha"
   />
 </p>
