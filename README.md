@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ajay Kumar</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
+<h3 align="center">Tech Lead | Sr. Fullstack developer from India with expertise in building scalable products</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ajaybelduha&label=Profile%20views&color=0e75b6&style=flat" alt="ajaybelduha" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ajaybelduha&label=Profile%20views&color=0e75b6&style=flat" alt="ajaybelduha" /> </p>
 
-<p align="left">
+<p align="center">
   <a href="https://ajaybelduha.com">
-    <img src="https://ajaybelduha.com/resume/ajaybelduha.jpg" alt="ajaybelduha" />
+    <img src="https://ajaybelduha.com/resume/ajaybelduha.jpg" alt="ajaybelduha" width="120" />
   </a>
 </p>
 
